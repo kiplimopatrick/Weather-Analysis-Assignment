@@ -1,5 +1,5 @@
 # Weather-Analysis-Assignment
-#Dataset
+Dataset
 The dataset (weather_data.csv) contains the following columns:
 date: The date of the recorded observation.
 weather: Description of the weather condition (e.g., clear, cloudy, rainy).
